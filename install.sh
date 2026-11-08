@@ -12,8 +12,8 @@ set -Eeuo pipefail
 APP_NAME="SVM V13.3 BOT"
 APP_VERSION="13.3"
 AUTHOR="AnkitCoder"
-ZIP_NAME="Svm-v13.3-bot.zip"
-PROJECT_DIR="Svm-v13.3-bot"
+ZIP_NAME="Svm-v13.4-bot.zip"
+PROJECT_DIR="Svm-v13.4-bot"
 LOG_DIR="logs"
 LOG_FILE="${LOG_DIR}/bootstrap-install-$(date +%Y%m%d-%H%M%S).log"
 
